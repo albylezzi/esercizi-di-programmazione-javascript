@@ -17,3 +17,7 @@
 
   http://www.imparareaprogrammare.it
 */
+var ng = 44;
+var ngf = 6;
+console.log(Math.ceil(n/ngf));
+console.log(ngf-ng%ngf);
